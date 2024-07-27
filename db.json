@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "5",
+      "name": "mahesh challa",
+      "email": "challamahesh.1307@gmail.com",
+      "phone": "6300781792",
+      "website": "hackerrank.com"
+    },
+    {
+      "id": "6",
+      "name": "mahesh challa",
+      "email": "challamahesh.1307@gmail.com",
+      "phone": "6300781792",
+      "website": "hackerrank.com"
+    },
+    {
+      "id": "8",
+      "name": "mahesh challa",
+      "email": "challamahesh.1307@gmail.com",
+      "phone": "6300781792",
+      "website": "hackerrank.com"
+    },
+    {
+      "id": "9",
+      "name": "mahesh challa",
+      "email": "challamahesh.1307@gmail.com",
+      "phone": "6300781792",
+      "website": "hackerrank.com"
+    },
+    {
+      "id": "10",
+      "name": "mahesh challa",
+      "email": "challamahesh.1307@gmail.com",
+      "phone": "6300781792",
+      "website": "hackerrank.com"
+    },
+    {
+      "id": "d915",
+      "name": "mama",
+      "email": "de@gmail.com",
+      "phone": "991"
+    }
+  ]
+}
